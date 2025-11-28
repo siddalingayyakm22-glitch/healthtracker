@@ -2,14 +2,13 @@
 
 A decentralized, blockchain-powered **Health Tracking Application** that allows users to securely store and update their personal health metrics directly on-chain. This ensures full ownership, transparency, and tamper-proof access to personal wellness data.
 
-<img width="1882" height="861" alt="image" src="https://github.com/user-attachments/assets/e3b15577-1386-46b8-98c2-f674b50c3367" />
-
 
 ## 📌 Contract Address  
 **0x1C67100B4fE07A90057c453A81B9E2E7F16520e8**  
 Explorer: https://coston2-explorer.flare.network/address/0x1C67100B4fE07A90057c453A81B9E2E7F16520e8
 
----
+<img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/a8722dbb-d580-4c47-a356-e3b5d9421d45" />
+
 
 ## 📘 Project Description
 
