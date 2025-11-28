@@ -2,7 +2,8 @@
 
 A decentralized, blockchain-powered **Health Tracking Application** that allows users to securely store and update their personal health metrics directly on-chain. This ensures full ownership, transparency, and tamper-proof access to personal wellness data.
 
----
+<img width="1882" height="861" alt="image" src="https://github.com/user-attachments/assets/e3b15577-1386-46b8-98c2-f674b50c3367" />
+
 
 ## 📌 Contract Address  
 **0x1C67100B4fE07A90057c453A81B9E2E7F16520e8**  
